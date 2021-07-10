@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "ts-node build.ts"
+  },
+  "dependencies": {
+    "regexgen": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/regexgen": "^1.3.0",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
